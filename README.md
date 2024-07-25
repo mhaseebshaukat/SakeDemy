@@ -1,6 +1,5 @@
 # SakeDemy
 SakeDemy is a comprehensive Flutter application designed to facilitate seamless communication between patients and doctors. Our app allows patients to book appointments and engage in live chats with their healthcare providers, ensuring they receive timely and personalized care.
-
 ## Key Features
 
 ### Appointment Scheduling
